@@ -1,5 +1,5 @@
 ---
-- hosts: ops,127.0.0.1
+- hosts: ops,172.16.0.205
   gather_facts: no
   tasks:
     - name: touch file
