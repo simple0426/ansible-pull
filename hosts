@@ -1,0 +1,3 @@
+ops ansible_user='muker'
+[python]
+172.16.0.205 ansible_user='muker'
