@@ -1,3 +1,4 @@
 ops ansible_user='muker'
-[python]
 172.16.0.205 ansible_user='muker'
+1 [local]
+2 127.0.0.1
