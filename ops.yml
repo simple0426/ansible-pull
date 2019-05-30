@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+    - name: touch file
+      command: touch /tmp/ceshi1
